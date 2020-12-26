@@ -1,0 +1,17 @@
+http:
+  port: "8081"
+
+sfdc:
+  username: "anjalirmenon@njclabs.com"
+  password: "DREAMworld4$"
+  token: "DLBZ2xFlO6ExzG6EJzjeWl6R"
+  
+file:
+  accountsDir: "D:/APDevFundamentals4.3_studentFiles_30oct2020.zip (Unzipped Files)/APDevFundamentals4.3_studentFiles_30oct2020/resources"
+  
+db:
+  host: "iltdb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
